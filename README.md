@@ -2,7 +2,7 @@
 I am Karthik Parameswaran, a Computer Science and Engineering (Artificial Intelligence) student at NSUT.
  
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a Flask API
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA), Machine Learning, and Backend Development
