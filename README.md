@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Karthik Parameswaran, a Computer Science and Engineering (Artificial Intelligence) student at NSUT.
+I am Karthik Parameswaran, a Computer Science and Engineering (Artificial Intelligence) student at NSUT.
  
 
 Here are some ideas to get you started:
