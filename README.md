@@ -38,8 +38,9 @@ I am Karthik Parameswaran, a Computer Science and Engineering (Artificial Intell
 
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=black)
 
-### Tools:
+### API Development and Tools:
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   <!--
