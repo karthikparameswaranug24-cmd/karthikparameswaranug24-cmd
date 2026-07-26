@@ -6,6 +6,11 @@ I am Karthik Parameswaran, a Computer Science and Engineering (Artificial Intell
 
 - 🔭 I’m currently working on a Flask API
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA), Machine Learning, and Backend Development
+
+- ## 🛠️ Tech Stack:
+
+- ![My Skills](https://skillicons.dev/icons?i=python,cpp,flask,html,css,git,github,mysql,sklearn)
+- 
   <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
